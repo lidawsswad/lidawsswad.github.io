@@ -1,4 +1,4 @@
-<ing src="https://github.com/lidawsswad/lidawsswad.github.io/assets/162403226/add94f27-0496-4e5e-b8dd-27a4b0855ee9" align="right" width="30%">
+<img src="https://github.com/lidawsswad/lidawsswad.github.io/assets/162403226/add94f27-0496-4e5e-b8dd-27a4b0855ee9" align="right" width="30%">
 
 # lidawsswad.github.io
 Website
