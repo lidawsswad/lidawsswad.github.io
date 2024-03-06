@@ -1,56 +1,41 @@
 # lidawsswad.github.io
 Website
-<img src="http://rbatzing.github.io/img/bob5.png" alt="RPB Photo" align="right" width="30%"/>
-
 # _Shuo Zhang_
 > _Praeceptor Emeritus_<br />
-> Payap University, Department of Computer Science<br />
+> Payap University, Major of IBM />
 > Amphur Muang, Chiang Mai 50000, Thailand<br />
 
-> Computer Solutions Developer with decades of experience in Data Science and Big Data Analytics, Natural language Processing, Document Publishing Systems, and Web Community Development
 
 # Education
-* SB Chemistry - Massachusetts Institute of Technology
-* PhD Pathobiology - Johns Hopkins University
-* NIH Post Doctoral Fellow - University of Wisconsin at Madison
-* MS Applied Mathematics and Computer Science - Indiana University - South Bend
-
+* IBM Bachelor degree/payap university
+* Qingdao No. 2 High School
+* Qingdao Yucai Middle School
+  
 # Experience
-* Summer Intern - New York State Rabies Screening Laboratory
-* Undergraduate Research Opportunity Intern - Environmental Health Sciences Center, Massachusetts Institute of Technology
-* Urban Vehicle Design Competition - Team communications and logistics officer, Massachusetts Institute of Technology
-* Research Assistant - Wellcome Laboratory, Johns Hopkins University 
-* Post Doctoral Fellow - McArdle Laboratory, University of Wisconsin at Madison
-* Project Head - Faculty of Pharmacy, Payap University
-* Acting Dean - Faculty of Science, Payap University
-* Software Development Lead - Computer-Assisted Text Processing Center, Thailand Bible Society
-* Director - United Bible Society Asia-Pacific Regional Computer-Assisted Text Processing Center
-* Office Manager - Martin Kehoe Law Office - Guilderland, NY
-* Informatics Lab Manager - Indiana University - South Bend
-* Computer Science Instructor - Payap University
-* IT Director - Payap University
-* Praceptor Emeritus - Payap University
+* Summer Intern - Qingdao securities company financial department
+* Participate in team development projects, responsible for writing code and testing, improve the ability to understand and solve problems.
+* Assisted the team in solving daily technical problems and provided support for the smooth operation of the team.
+* Participating in departmental meetings, learning about the company's business and processes, broadening the understanding of business operations.
 
 # Interests
-* Applied machine learning, data science, modeling and forecasting to assist decision making
-* Natural language processing to automate prepublication editing support
 * Web and online community development and e-business
-* Blended and online education for higher education and livelong learning
-* Bible study and its life applications
-
+* Actively help with language issues in the work environment, research and identify the strengths and weaknesses of the current business field.
+*  I am passionate about helping teams overcome communication barriers and improve productivity.
+*  I love sports and music art, which are not only ways to keep my body and mind healthy, but also important ways for me to relax and enjoy life. I believe that balanced development of body and mind is the key to productivity and quality of life, so I try to maintain a positive attitude towards life.
+*  I am passionate about volunteering and taking an active part in community building and environmental protection. As a graduate of IBM, I am aware of the social responsibility that enterprises should shoulder. Therefore, I hope to contribute to the society through my own efforts and influence people around me to actively participate in social welfare undertakings.
+*  I love to explore new technologies and innovations, especially in areas such as artificial intelligence, cloud computing and big data. During my study and work experience in IBM, I have a deep understanding of the importance of technological innovation to business development, which has inspired me to continue to learn and explore in these fields.
+  
+  
 # Project experience with Languages
-* Computer programming: Fortran 4, 6809 Assembler, C, MS BASIC, Forth, Z80 Assembler, Pascal, Lisp, C++, AWK, SNOBOL, APL, troff, SPITBOL, Perl, SmallTalk, Icon, Fortran 77, TeX, Metafont, XLISP, Visual Basic, SQL, Python, LaTeX, VBA, Ruby, Java, PHP, Ruby on Rails, R, JavaScript, Angular JS, Node JS, NoSQL, Bender, Julia
-* Human: English, Thai, French, German
-* OS Command shells: CP/M, UNIX, MSDOS, MS Windows, OsX, Linux, KSH, BASH, SSH, Ardunio, Android
-* Version control: RCS, CVS, Subversion, Bazaar, GIT
-* Open standards: HTML, CSS, XML, RSS, GPX, Unicode, ISO9001, ISO29110
+I am fluent in many languages, including (English,Thai ,Chinese,Japaness). These language skills not only enable me to better understand people from different cultural backgrounds, but also enable me to participate more extensively in exchanges and cooperation in the field of international business administration.
+During my time at university, I conducted an in-depth study of linguistics, especially in the area of cross-cultural communication and language barriers. I have been involved in projects that explore how effective communication and language skills can promote teamwork and organizational development. I also examine the impact of cultural differences in different linguistic contexts on the business environment and how language skills can be used to address challenges in cross-cultural communication. These research experiences have made me more aware of the importance of language in the business world and stimulated my interest in actively helping to solve language problems in my work.
+
 
 # Contact Info
-* [Web Page](https://rbatzing.github.io)
-* [LinkedIn](https://www.linkedin.com/in/robert-batzinger)
-* [Twitter](https://twitter.com/rbatz)
-* [Google Scholar](https://scholar.google.com/citations?user=LYSacdYAAAAJ&hl=en)
-* [Research Gate](https://www.researchgate.net/profile/Robert-Batzinger)
+* [Web Page](https://lidasswad.github.io)
+* [Twitter](https://twitter.com/Michael)
+* [Line]:089765456
+* [WECHAT]1543832734
 
 
 
